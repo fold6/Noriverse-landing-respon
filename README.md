@@ -1,9 +1,8 @@
 # Noriverse_homepage
 스포츠 매니저(각종 스포츠 기록,전적관리 및 매칭) 앱, 노리버스를 소개하는 반응형 웹 페이지 (디자인 및 퍼블리싱) <br>
-(Introducing Noribus, a responsive web page for a sports manager app that tracks<br>
-arious sports records, manages match histories, and facilitates matchmaking.)
 
-📌[바로가기](https://fold6.github.io/Noriverse_homepage/noriverse_home.html)
+
+📌[바로가기](https://fold6.github.io/Noriverse-landing-respon/)
 
 <br>
 <br>
